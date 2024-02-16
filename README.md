@@ -41,4 +41,4 @@ You can cite the following paper for the use of this work:
 
 ### Acknowledgements
 
-[Xiuyuan Yuan](https://jackyuanx.github.io/) conducted the research under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) in the ANU Summer Scholars Program. He is supported by a Summer Research Internship provided by the ANU School of Computing. This work is also supported by the NCI Adapter Scheme, with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.
+[Xiuyuan Yuan](https://jackyuanx.github.io/) conducted the research under the supervision of [Lei Wang](https://leiwangr.github.io/) in the ANU Summer Scholars Program. He is supported by a Summer Research Internship provided by the ANU School of Computing. This work is also supported by the NCI Adapter Scheme, with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.
