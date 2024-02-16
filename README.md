@@ -7,3 +7,16 @@ Using Taylor videos is a simple two-step process.
   - Environmental setup: [Installation](https://mmaction2.readthedocs.io/en/latest/get_started/installation.html).
   - Pretrained models: [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html).
   - Model finetuning: [Finetuning Models](https://mmaction2.readthedocs.io/en/latest/user_guides/finetune.html)
+ 
+You can cite the following paper for the use of this work:
+
+```
+@misc{wang2024taylor,
+      title={Taylor Videos for Action Recognition}, 
+      author={Lei Wang and Xiuyuan Yuan and Tom Gedeon and Liang Zheng},
+      year={2024},
+      eprint={2402.03019},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
