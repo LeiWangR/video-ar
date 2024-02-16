@@ -23,6 +23,7 @@ Qualitative impact of the number of terms used in Taylor series on the action ri
 Taylor videos are able to remove distinct facial features of individuals compared to RGB videos. This allows the data collection and processing to have improved privacy.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/face.png)
 
+For visualizations in the form of videos, please refer to the folders provided in this repository.
 
 ## Citation
 
