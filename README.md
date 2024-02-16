@@ -9,6 +9,20 @@ Using Taylor videos is a simple two-step process.
   - Environmental setup: [Installation](https://mmaction2.readthedocs.io/en/latest/get_started/installation.html).
   - Pretrained models: [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html).
 
+## Visualisation
+
+Taylor frames indicate motion strengths and directions
+![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/dir-str.png)
+
+Taylor videos remove redundancy, such as static backgrounds, unstable pixels, watermarks, and captions.
+![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/rem-cap.png)
+
+Qualitative impact of the number of terms used in Taylor series on the action ride bike in HMDB-51 (top row), a synthetic action video of CATER (middle row), and the finegrained action place in MPII Cooking Activity (bottom row). 
+![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/terms.png)
+
+Taylor videos are able to remove distinct facial features of individuals compared to RGB videos. This allows the data collection and processing to have improved privacy.
+![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/face.png)
+
 
 ## Citation
 
