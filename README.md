@@ -1,5 +1,7 @@
 # Taylor videos
 
+## Usage
+
 Using Taylor videos is a simple two-step process.
 
 - To extract Taylor video, simply run `taylor-video.ipynb`.
@@ -7,7 +9,7 @@ Using Taylor videos is a simple two-step process.
   - Environmental setup: [Installation](https://mmaction2.readthedocs.io/en/latest/get_started/installation.html).
   - Pretrained models: [MMAction2 Model Zoo](https://mmaction2.readthedocs.io/en/latest/model_zoo/modelzoo.html).
  
-## Videos
+## Visualisation
 
 <table>
   <tr>
@@ -24,7 +26,8 @@ Using Taylor videos is a simple two-step process.
   </tr>
 </table>
 
- 
+## Citation
+
 You can cite the following paper for the use of this work:
 
 ```
