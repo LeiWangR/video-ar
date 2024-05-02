@@ -30,13 +30,11 @@ For visualizations in the form of videos, please refer to the folders provided i
 You can cite the following paper for the use of this work:
 
 ```
-@misc{wang2024taylor,
-      title={Taylor Videos for Action Recognition}, 
-      author={Lei Wang and Xiuyuan Yuan and Tom Gedeon and Liang Zheng},
-      year={2024},
-      eprint={2402.03019},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{wang2024taylor,
+              title={Taylor Videos for Action Recognition},
+              author={Lei Wang and Xiuyuan Yuan and Tom Gedeon and Liang Zheng},
+              booktitle={Forty-first International Conference on Machine Learning (ICML)},
+              year={2024}
 }
 ```
 
