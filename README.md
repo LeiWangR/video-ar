@@ -1,6 +1,6 @@
-# Taylor videos
+# Taylor videos and Taylor skeleton sequences
 
-## Application to action recognition
+## 1. Application to action recognition
 
 Using Taylor videos for action recognition is a simple two-step process.
 
@@ -12,23 +12,27 @@ Using Taylor videos for action recognition is a simple two-step process.
 - Note that Taylor videos and Taylor-transformered skeletons can be applied to various video processing tasks such as anomaly detection, deep fake, motion extraction, video generation, etc.
 
 
-## Visualisation
+## 2. Visualisation
 
-Taylor frames indicate motion strengths and directions
+For visualizations in the form of videos (Taylor videos with different numbers of terms), please refer to the folders provided in the repository. The pixel values are scaled for better visualisation purposes. Below, we present some visualizations and comparisons of Taylor frames.
+
+### 2.1: Motion strengths and directions
+Taylor frames indicate motion strengths and directions. Each channel of the Taylor frame represents a motion concept with positive and negative values indicating motion directions (0 for static pixels). Velocity and acceleration channels are computed per video temporal block, capturing relative motion directions from the initial frame.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/dir-str.png)
 
+### 2.2: Redundancy removal
 Taylor videos remove redundancy, such as static backgrounds, unstable pixels, watermarks, and captions.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/rem-cap.png)
 
-Qualitative impact of the number of terms used in Taylor series on the action ride bike in HMDB-51 (top row), a synthetic action video of CATER (middle row), and the finegrained action place in MPII Cooking Activity (bottom row). 
+### 2.3: Impact of the number of terms
+Qualitative impact of the number of terms used in Taylor series on the action ride bike in HMDB-51 (top row), a synthetic action video of CATER (middle row), and the finegrained action place in MPII Cooking Activity (bottom row). We observe that as the number of terms increases, more motion patterns are captured. In scenarios with a moving camera, such as ride bike in the top row, using more terms leads to the inclusion of more background details, such as crosswalk and crowds.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/terms.png)
 
+### 2.4: Potential applications to privacy
 Taylor videos are able to remove distinct facial features of individuals compared to RGB videos. This allows the data collection and processing to have improved privacy.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/face.png)
 
-For visualizations in the form of videos (Taylor videos with different numbers of terms), please refer to the folders provided in the repository. The pixel values are scaled for better visualisation purposes.
-
-## Citation
+## 3. Citation
 
 You can cite the following paper for the use of this work:
 
