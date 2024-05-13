@@ -26,7 +26,7 @@ Qualitative impact of the number of terms used in Taylor series on the action ri
 Taylor videos are able to remove distinct facial features of individuals compared to RGB videos. This allows the data collection and processing to have improved privacy.
 ![Alt Text](https://github.com/LeiWangR/video-ar/blob/main/images/face.png)
 
-For visualizations in the form of videos, please refer to the folders provided in this repository.
+For visualizations in the form of videos (Taylor videos with different numbers of terms), please refer to the folders provided in the repository. The pixel values are scaled for better visualisation purposes.
 
 ## Citation
 
@@ -37,7 +37,7 @@ You can cite the following paper for the use of this work:
 wang2024taylor,
 title={Taylor Videos for Action Recognition},
 author={Lei Wang and Xiuyuan Yuan and Tom Gedeon and Liang Zheng},
-booktitle={Forty-first International Conference on Machine Learning},
+booktitle={Forty-first International Conference on Machine Learning (ICML)},
 year={2024}
 }
 ```
