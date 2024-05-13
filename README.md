@@ -41,4 +41,4 @@ year={2024}
 
 ### Acknowledgements
 
-[Xiuyuan Yuan](https://jackyuanx.github.io/) conducted the research under the supervision of [Lei Wang](https://leiwangr.github.io/) in the ANU Summer Scholars Program. He is supported by a Summer Research Internship provided by the ANU School of Computing. This work is also supported by the NCI Adapter Scheme, with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government.
+[Xiuyuan Yuan](https://jackyuanx.github.io/) conducted this research under the supervision of [Lei Wang](https://leiwangr.github.io/) in the [ANU Summer Scholars Program](https://cecc.anu.edu.au/current-students/research-opportunities/summer-research-projects-2023). Lei Wang focused on mathematical analysis and modeling, while Xiuyuan Yuan implemented the code and conducted experiments. Xiuyuan Yuan is supported by a Summer Research Internship provided by the ANU School of Computing. This work is also supported by the NCI Adapter Scheme, with computational resources provided by NCI Australia, an NCRIS-enabled capability supported by the Australian Government. 
