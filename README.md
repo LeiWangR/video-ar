@@ -6,9 +6,9 @@ Using Taylor videos for action recognition is a simple two-step process.
 
 - To extract Taylor video from an RGB video, simply run `taylor-video.ipynb`.
 - To extract Taylor-transformed skeletons from human skeleton sequences, simply run `taylor-skeleton.ipynb`. Note that we only use the displacement concept for Taylor skeleton sequence computation. The provided Jupyter notebook also displays animations of Taylor skeleton sequences overlaid on top of the original skeletons.
-- To use Taylor videos for action recognition, simply follow the instructions provided in [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2?tab=readme-ov-file):
+- To use Taylor videos for action recognition, follow the instructions provided in [open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2?tab=readme-ov-file):
   - Environmental setup: [Installation](https://mmaction2.readthedocs.io/en/latest/get_started/installation.html).
-- To use Taylor skeleton sequences for action recognition, simply replace the use of original skeleton sequences with the computed Taylor skeleton sequences (we use ST-GCN (AAAI 2018) provided in backbone). 
+- To use Taylor skeleton sequences for action recognition, replace the use of original skeleton sequences with the computed Taylor skeleton sequences (We use the ST-GCN model (AAAI 2018) as our backbone). 
 - Note that Taylor videos and Taylor-transformered skeletons can be applied to various video processing tasks such as anomaly detection, deep fake, motion extraction, video generation, etc.
 
 ## 2. Visualisation
