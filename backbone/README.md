@@ -25,3 +25,5 @@ Finally, custom model evaluation can be achieved by this command as we mentioned
 ```
 python main.py -c config/st_gcn/<dataset>/test.yaml --weights <path to model weights>
 ```
+
+For more information, please refer to [mmskeleton](https://github.com/open-mmlab/mmskeleton).
