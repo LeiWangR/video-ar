@@ -1,1 +1,0 @@
-kinetics-st_gcn.pt
