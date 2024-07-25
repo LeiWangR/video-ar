@@ -1,6 +1,6 @@
-# Video and skeletal AR backbone
+# Backbone
 
-## Skeletonal AR backbone: ST-GCN
+## Skeletonal AR backbone
 
 ### Prerequisites
 We use the ST-GCN model (AAAI 2018) with all setups following the original settings. The codebase is based on **Python 3** (>=3.5), and there are a few dependencies required to run the code. The major libraries are
@@ -30,6 +30,7 @@ Finally, custom model evaluation can be achieved by this command as we mentioned
 python main.py -c config/st_gcn/<dataset>/test.yaml --weights <path to model weights>
 ```
 
-## Video AR backbone: I3D
+
+
 
 
