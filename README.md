@@ -11,9 +11,6 @@ Using Taylor videos for action recognition is a simple two-step process.
 - To use Taylor skeleton sequences for action recognition, simply replace the use of original skeleton sequences with the computed Taylor skeleton sequences. 
 - Note that Taylor videos and Taylor-transformered skeletons can be applied to various video processing tasks such as anomaly detection, deep fake, motion extraction, video generation, etc.
 
-- The model backbone can also be downloaded from this [link](https://drive.google.com/file/d/13gblq-GpDgUD25Dy083FhALKc2aLT67f/view?usp=sharing).
-
-
 ## 2. Visualisation
 
 For visualizations in the form of videos (Taylor videos with different numbers of terms), please refer to the folders provided in the repository. The pixel values are scaled for better visualisation purposes. Below, we present some visualizations and comparisons of Taylor frames.
