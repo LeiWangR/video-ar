@@ -1,7 +1,3 @@
-# Backbone
-
-## Skeletonal AR backbone
-
 ### Prerequisites
 We use the ST-GCN model (AAAI 2018) with all setups following the original settings. The codebase is based on **Python 3** (>=3.5), and there are a few dependencies required to run the code. The major libraries are
 - [PyTorch](http://pytorch.org/)
