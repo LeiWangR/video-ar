@@ -1,5 +1,5 @@
 ## Prerequisites
-Our codebase is based on **Python3** (>=3.5). There are a few dependencies to run the code. The major libraries we depend are
+We use the ST-GCN model (AAAI 2018) with all setups following the original settings. The codebase is based on **Python 3** (>=3.5), and there are a few dependencies required to run the code. There are a few dependencies to run the code. The major libraries we depend are
 - [PyTorch](http://pytorch.org/) (Release version 0.4.0)
 - [Openpose@92cdcad](https://github.com/yysijie/openpose) (Optional: for demo only)
 - FFmpeg (Optional: for demo only), which can be installed by `sudo apt-get install ffmpeg`
